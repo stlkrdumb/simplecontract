@@ -1,7 +1,7 @@
 # Simple Solidity Contract Example
 No, additional libraries such as open zeppelin.
 
-```
+```sol
 contract YourContractName {
     string public constant name = "Your Token Name";
     string public constant symbol = "YOURTOKENSYMBOL";
